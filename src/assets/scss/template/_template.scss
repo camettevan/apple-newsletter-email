@@ -4,6 +4,9 @@ html,
   background: #fafafa !important;
   background-color: #fafafa !important;
   font-family: $apple-font !important;
+  word-wrap: normal;
+  word-break: keep-all;
+  hyphens: none;
 }
 
 .header-tiny{
